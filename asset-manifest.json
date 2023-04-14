@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JAZROChallenge/static/css/main.18e6dbbe.css",
+    "main.js": "/JAZROChallenge/static/js/main.062b888b.js",
+    "static/js/787.8166416e.chunk.js": "/JAZROChallenge/static/js/787.8166416e.chunk.js",
+    "index.html": "/JAZROChallenge/index.html",
+    "main.18e6dbbe.css.map": "/JAZROChallenge/static/css/main.18e6dbbe.css.map",
+    "main.062b888b.js.map": "/JAZROChallenge/static/js/main.062b888b.js.map",
+    "787.8166416e.chunk.js.map": "/JAZROChallenge/static/js/787.8166416e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e6dbbe.css",
+    "static/js/main.062b888b.js"
+  ]
+}

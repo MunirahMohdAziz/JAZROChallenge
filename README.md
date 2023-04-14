@@ -5,7 +5,7 @@ Munirah binti Mohd Aziz
 
 ### Github page
 
-Click the this URL (https://munirahmohdaziz.github.io/JAZROChallenge/) to display in browser
+Click this URL (https://munirahmohdaziz.github.io/JAZROChallenge/) to display in browser
 
 ### Locally
 

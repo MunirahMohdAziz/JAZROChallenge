@@ -9,5 +9,5 @@ Click this URL (https://munirahmohdaziz.github.io/JAZROChallenge/) to display in
 
 ### Locally
 
-Download the project
-Run "npm start" or "yarn start" in the terminal
+1. Download the project
+2. Run "npm start" or "yarn start" in the terminal
